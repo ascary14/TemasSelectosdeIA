@@ -1,7 +1,6 @@
 /*German Ascary Galindo Guzman
 2163010475
-Inteligencia Artificial
-Tarea 4
+Temas Selectos de Inteligencia Artificial
 
  */
 package tarea4;
